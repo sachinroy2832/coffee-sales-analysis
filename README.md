@@ -1,0 +1,1 @@
+This project analyzes coffee sales data to extract meaningful insights and visualize them using Power BI. The goal is to provide a clear and interactive dashboard that can help stakeholders make informed decisions based on the sales trends, customer behavior, and other key metrics.
